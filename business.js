@@ -1,3 +1,4 @@
+// TODO: connect to server.js
 var DataLayer = require("./companydata/index.js");
 var dl = new DataLayer("ta7384");
 
